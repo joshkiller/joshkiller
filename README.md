@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshkiller
 - 👀 I’m interested in Artificial inttelligent and virtual and augmented reality
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI and virtual and augmented reality project
+- 💞️ I’m looking to collaborate on Machine Learning and virtual/augmented reality projects
 - 📫 How to reach me josuuson007@gmail.com
 
 <!---
